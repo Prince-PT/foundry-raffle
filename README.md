@@ -116,7 +116,7 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - **Prince PT**
 - GitHub: [Prince-PT](https://github.com/Prince-PT)
-- Email: [thakkarprince100@gmail.com]
+- Email: [22uec141@lnmiit.ac.in]
 
 ---
 
