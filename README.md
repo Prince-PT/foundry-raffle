@@ -20,7 +20,6 @@ Before you begin, ensure you have the following installed:
 
 - [Foundry](https://getfoundry.sh/)
 - [Node.js](https://nodejs.org/)
-- [Yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
 - [MetaMask](https://metamask.io/) or any Ethereum wallet
 
 ## Installation
@@ -105,6 +104,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
+- Cyfrin Updraft for their incredible support and resources that made this project possible.
+- Patrick Collins for his amazing tutorials and guidance in the blockchain space.
 - [Foundry](https://getfoundry.sh/) for the development framework.
 - [Chainlink](https://chain.link/) for providing VRF and Automation services.
 - The Ethereum community for their continuous support and innovation.
@@ -115,7 +116,7 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - **Prince PT**
 - GitHub: [Prince-PT](https://github.com/Prince-PT)
-- Email: [Your Email Address]
+- Email: [thakkarprince100@gmail.com]
 
 ---
 
